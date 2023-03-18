@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lexa Jones OnlyFans</title>
+	<style>
+		body {
+			background-color: lightpink;
+			font-family: Arial, sans-serif;
+		}
+		h1 {
+			font-size: 3rem;
+			text-align: center;
+			margin-top: 2rem;
+			margin-bottom: 2rem;
+		}
+		.container {
+			max-width: 960px;
+			margin: 0 auto;
+			padding: 2rem;
+		}
+		.img-container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+		.img-container img {
+			max-width: 300px;
+			margin: 1rem;
+		}
+		.btn {
+			display: block;
+			width: 200px;
+			margin: 0 auto;
+			padding: 1rem;
+			background-color: white;
+			border: 2px solid black;
+			border-radius: 5px;
+			font-weight: bold;
+			text-align: center;
+			text-decoration: none;
+			color: black;
+		}
+		.btn:hover {
+			background-color: black;
+			color: white;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>Lexa Jones OnlyFans</h1>
+		<div class="img-container">
+			<img src="lexa-jones-1.jpg" alt="Lexa Jones">
+			<img src="lexa-jones-2.jpg" alt="Lexa Jones">
+			<img src="lexa-jones-3.jpg" alt="Lexa Jones">
+		</div>
+		<p>Subscribe to Lexa Jones' OnlyFans for exclusive content!</p>
+		<a href="https://onlyfans.com/lexajones" class="btn">Subscribe for $15/month</a>
+		<p>Check out Lexa Jones' TikTok <a href="https://www.tiktok.com/@averagedrywallconsumer">here</a> and follow her on Twitter <a href="https://twitter.com/lexaXJones">@lexaXJones</a></p>
+	</div>
+</body>
+</html>
